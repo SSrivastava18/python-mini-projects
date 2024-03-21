@@ -29,7 +29,7 @@ def click(event):
 
 root = Tk()
 root.geometry("644x670")
-root.title("Calculator By CodeWithHarry")
+root.title(" GUI Calculator")
 
 
 scvalue = StringVar()
